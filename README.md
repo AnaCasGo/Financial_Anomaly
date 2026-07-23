@@ -81,6 +81,7 @@ Future
 
 # Architecture
 
+```text
 Synthetic Data Generator
         │
         ▼
@@ -102,6 +103,7 @@ Risk Scoring
         ├── Power BI Dashboard
         ├── Customer Email
         └── LLM Explanation
+```
 
 # Why Synthetic Data?
 
