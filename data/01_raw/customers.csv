@@ -1,0 +1,501 @@
+customer_id,date_of_birth,nationality,country_of_residence,occupation,employment_status,customer_since
+ID_C00001,1961-08-26,Spain,Spain,Sales representative,Employed,2021-12-30
+ID_C00002,1982-01-28,Spain,Spain,Construction worker,Employed,2018-01-23
+ID_C00003,1954-12-16,Spain,Spain,Retired,Retired,2018-10-18
+ID_C00004,1961-07-01,Spain,Spain,Manufacturing worker,Employed,2018-05-01
+ID_C00005,1998-03-16,Spain,Spain,Construction worker,Self-employed,2020-01-26
+ID_C00006,1935-06-21,Spain,Spain,Retired,Retired,2023-05-04
+ID_C00007,1961-01-26,Spain,Spain,Construction worker,Employed,2019-03-30
+ID_C00008,1964-09-09,Morocco,Spain,Other / inactive,Other,2024-11-29
+ID_C00009,1992-12-20,Spain,Spain,Other / inactive,Other,2019-11-21
+ID_C00010,1984-03-25,Spain,Spain,Unemployed,Unemployed,2018-04-25
+ID_C00011,1987-12-08,Spain,Spain,Shop owner,Employed,2020-05-07
+ID_C00012,1937-03-28,Spain,Spain,Retired,Retired,2023-03-28
+ID_C00013,1967-04-09,Spain,Spain,Unemployed,Unemployed,2018-09-30
+ID_C00014,1956-02-28,Spain,Spain,Retired,Retired,2018-07-03
+ID_C00015,1984-07-11,Morocco,Spain,Administrative worker,Employed,2023-12-12
+ID_C00016,1991-02-09,Spain,Spain,Unemployed,Unemployed,2022-02-23
+ID_C00017,1976-11-01,Spain,Spain,Restaurant worker,Employed,2020-05-27
+ID_C00018,2003-07-27,Spain,Spain,Restaurant worker,Employed,2023-04-18
+ID_C00019,1959-11-18,Spain,Spain,Other / inactive,Other,2023-11-29
+ID_C00020,1978-03-28,Spain,Spain,Retail worker,Employed,2020-07-07
+ID_C00021,1969-04-16,Spain,Spain,Education professional,Employed,2021-12-05
+ID_C00022,1989-03-13,Spain,Spain,Administrative worker,Employed,2018-01-28
+ID_C00023,1936-03-29,Spain,Spain,Retired,Retired,2020-02-22
+ID_C00024,1951-09-11,Spain,Spain,Retired,Retired,2022-03-02
+ID_C00025,1961-12-08,Spain,Spain,Business and management professional,Self-employed,2019-05-19
+ID_C00026,1999-01-27,Spain,Spain,Unemployed,Unemployed,2024-12-09
+ID_C00027,1989-07-06,Spain,Spain,Business and management professional,Employed,2024-10-19
+ID_C00028,2005-11-28,Spain,Spain,Student,Student,2019-10-21
+ID_C00029,1994-01-28,Spain,Spain,Unemployed,Unemployed,2020-10-10
+ID_C00030,1966-01-04,Spain,Spain,Education professional,Employed,2019-04-30
+ID_C00031,1965-07-23,Spain,Spain,Care worker,Employed,2021-07-12
+ID_C00032,1947-03-26,Morocco,Spain,Retired,Retired,2018-11-13
+ID_C00033,1982-12-19,Spain,Spain,Restaurant worker,Self-employed,2020-09-26
+ID_C00034,1986-11-28,Spain,Spain,Manufacturing worker,Employed,2021-11-20
+ID_C00035,1989-09-23,China,Spain,Restaurant worker,Employed,2022-04-14
+ID_C00036,1992-05-07,Spain,Spain,Care worker,Employed,2022-03-06
+ID_C00037,1990-11-14,Spain,Spain,Driver,Employed,2019-07-21
+ID_C00038,1979-12-20,Spain,Spain,Security worker,Employed,2023-07-19
+ID_C00039,1995-05-02,Spain,Spain,Administrative worker,Employed,2022-11-04
+ID_C00040,1961-03-26,Spain,Spain,Business and management professional,Employed,2023-04-10
+ID_C00041,1982-04-07,Spain,Spain,Healthcare professional,Employed,2021-04-11
+ID_C00042,1951-03-16,Spain,Spain,Retired,Retired,2024-04-01
+ID_C00043,1965-03-14,Spain,Spain,Manufacturing worker,Employed,2020-09-23
+ID_C00044,1986-05-27,Spain,Spain,Construction worker,Employed,2023-08-23
+ID_C00045,1952-06-26,Spain,Spain,Retired,Retired,2019-06-05
+ID_C00046,1958-02-23,Spain,Spain,Other / inactive,Other,2019-09-25
+ID_C00047,1987-08-27,Spain,Spain,Business and management professional,Employed,2021-09-08
+ID_C00048,1983-11-27,Spain,Spain,Unemployed,Unemployed,2021-11-22
+ID_C00049,1963-04-02,Spain,Spain,Other / inactive,Other,2023-03-24
+ID_C00050,1998-09-23,Spain,Spain,Agricultural worker,Employed,2020-01-31
+ID_C00051,1994-01-09,Spain,Spain,Shop owner,Employed,2024-02-10
+ID_C00052,2004-08-03,Spain,Spain,Unemployed,Unemployed,2020-04-23
+ID_C00053,1964-02-26,Morocco,Spain,Healthcare professional,Employed,2021-09-27
+ID_C00054,1960-12-17,Spain,Spain,Driver,Employed,2024-07-10
+ID_C00055,1969-05-06,Spain,Spain,Healthcare professional,Employed,2021-10-11
+ID_C00056,1960-07-22,Spain,Spain,Healthcare professional,Employed,2022-10-10
+ID_C00057,1985-07-17,Spain,Spain,Care worker,Employed,2024-05-12
+ID_C00058,1972-09-27,Spain,Spain,Other / inactive,Other,2024-10-28
+ID_C00059,1995-01-12,Spain,Spain,Other / inactive,Other,2021-06-30
+ID_C00060,1996-08-11,France,Spain,Shop owner,Employed,2020-12-02
+ID_C00061,1962-02-25,Spain,Spain,Shop owner,Self-employed,2019-05-19
+ID_C00062,1973-07-30,Spain,Spain,Sales representative,Employed,2021-10-06
+ID_C00063,1978-12-15,Argentina,Spain,Unemployed,Unemployed,2024-06-06
+ID_C00064,1962-02-15,Spain,Spain,Security worker,Employed,2021-05-30
+ID_C00065,1972-10-26,Spain,Spain,Other / inactive,Other,2020-06-10
+ID_C00066,1976-09-25,Ecuador,Spain,Unemployed,Unemployed,2018-10-02
+ID_C00067,1970-02-21,Venezuela,Spain,Agricultural worker,Employed,2020-09-23
+ID_C00068,1983-02-09,Spain,Spain,Manufacturing worker,Employed,2019-08-29
+ID_C00069,2004-02-02,Spain,Spain,Restaurant worker,Employed,2024-11-02
+ID_C00070,1989-07-30,Spain,Spain,Sales representative,Employed,2021-09-11
+ID_C00071,1993-03-31,Spain,Spain,Personal service worker,Employed,2018-12-17
+ID_C00072,1987-09-04,Spain,Spain,Unemployed,Unemployed,2018-06-22
+ID_C00073,1952-04-06,Spain,Spain,Retired,Retired,2023-12-16
+ID_C00074,1994-07-02,Spain,Spain,Driver,Employed,2024-07-09
+ID_C00075,2003-12-14,Spain,Spain,Student,Student,2023-05-05
+ID_C00076,1988-08-02,Spain,Spain,Administrative worker,Employed,2018-11-13
+ID_C00077,1982-07-15,Spain,Spain,Other / inactive,Other,2018-09-09
+ID_C00078,1968-09-30,Spain,Spain,Shop owner,Employed,2019-05-22
+ID_C00079,1975-08-18,Brazil,Spain,Shop owner,Employed,2023-04-05
+ID_C00080,1961-07-02,Spain,Spain,Manufacturing worker,Employed,2023-05-11
+ID_C00081,1960-12-14,Spain,Spain,Other / inactive,Other,2023-11-13
+ID_C00082,1980-11-07,Spain,Spain,Personal service worker,Employed,2018-09-05
+ID_C00083,1950-03-28,Spain,Spain,Healthcare professional,Self-employed,2019-01-27
+ID_C00084,1994-08-26,Spain,Spain,Driver,Self-employed,2024-04-21
+ID_C00085,2005-05-24,Spain,Spain,Sales representative,Employed,2024-07-02
+ID_C00086,1991-06-09,Spain,Spain,Other / inactive,Other,2023-01-30
+ID_C00087,1961-06-14,Spain,Spain,Unemployed,Unemployed,2018-09-29
+ID_C00088,1980-08-04,Morocco,Spain,Other / inactive,Other,2018-06-25
+ID_C00089,1993-07-09,Spain,Spain,Sales representative,Employed,2018-05-23
+ID_C00090,1978-03-07,Spain,Spain,Construction worker,Self-employed,2022-11-05
+ID_C00091,1994-01-14,Spain,Spain,Security worker,Employed,2023-12-04
+ID_C00092,1965-09-30,Spain,Spain,Administrative worker,Employed,2022-06-04
+ID_C00093,1981-05-02,Spain,Spain,Unemployed,Unemployed,2019-11-02
+ID_C00094,1986-01-13,Spain,Spain,Other / inactive,Other,2023-04-21
+ID_C00095,1986-12-30,Spain,Spain,Business and management professional,Self-employed,2018-06-01
+ID_C00096,1979-03-21,Romania,Spain,Driver,Employed,2023-10-19
+ID_C00097,1981-07-04,Spain,Spain,Driver,Employed,2024-03-30
+ID_C00098,2001-01-13,Spain,Spain,Student,Student,2023-01-11
+ID_C00099,1999-06-04,Spain,Spain,Retail worker,Employed,2024-02-27
+ID_C00100,1943-03-02,Romania,Spain,Retired,Retired,2022-02-07
+ID_C00101,1955-11-02,Spain,Spain,Retired,Retired,2021-04-12
+ID_C00102,1965-11-11,Spain,Spain,Restaurant worker,Employed,2020-04-04
+ID_C00103,1990-01-28,Spain,Spain,Agricultural worker,Self-employed,2024-06-14
+ID_C00104,1947-06-23,Portugal,Spain,Retired,Retired,2022-11-18
+ID_C00105,1966-06-12,Spain,Spain,Other / inactive,Other,2019-05-03
+ID_C00106,1968-10-31,Spain,Spain,Administrative worker,Employed,2024-09-12
+ID_C00107,1987-10-11,Spain,Spain,Healthcare professional,Employed,2018-06-01
+ID_C00108,1990-03-09,United Kingdom,Spain,Business and management professional,Employed,2022-02-11
+ID_C00109,1990-09-13,Spain,Spain,Sales representative,Employed,2019-05-03
+ID_C00110,1959-06-02,Spain,Spain,Other / inactive,Other,2022-08-26
+ID_C00111,1983-09-08,Spain,Spain,Education professional,Employed,2020-11-21
+ID_C00112,1997-09-27,Spain,Spain,Driver,Employed,2021-01-22
+ID_C00113,1988-11-02,Spain,Spain,Other / inactive,Other,2022-09-14
+ID_C00114,1977-01-27,Spain,Spain,Other / inactive,Other,2023-04-18
+ID_C00115,1998-01-23,Spain,Spain,Restaurant worker,Employed,2020-08-29
+ID_C00116,1955-11-20,Germany,Spain,Retired,Retired,2024-12-26
+ID_C00117,1960-08-26,Morocco,Spain,Security worker,Employed,2021-06-28
+ID_C00118,1964-06-10,Spain,Spain,Healthcare professional,Employed,2019-02-15
+ID_C00119,1982-08-15,Spain,Spain,Retail worker,Employed,2018-01-17
+ID_C00120,1975-04-13,Spain,Spain,Education professional,Employed,2019-06-02
+ID_C00121,1979-09-29,Spain,Spain,Unemployed,Unemployed,2022-11-03
+ID_C00122,1969-12-11,Spain,Spain,Care worker,Employed,2021-10-11
+ID_C00123,2005-09-01,Brazil,Spain,Education professional,Employed,2020-05-13
+ID_C00124,1987-05-28,Spain,Spain,Agricultural worker,Employed,2021-05-15
+ID_C00125,2001-10-28,Spain,Spain,Restaurant worker,Employed,2023-11-14
+ID_C00126,1971-03-10,Venezuela,Spain,Care worker,Employed,2022-01-01
+ID_C00127,1981-12-28,Spain,Spain,Unemployed,Unemployed,2018-05-29
+ID_C00128,1993-12-08,Spain,Spain,Other / inactive,Other,2018-05-06
+ID_C00129,1994-06-30,Spain,Spain,Administrative worker,Employed,2021-05-17
+ID_C00130,1973-06-29,Spain,Spain,Administrative worker,Employed,2020-10-30
+ID_C00131,1995-09-16,Spain,Spain,Retail worker,Employed,2023-12-15
+ID_C00132,1939-09-29,Spain,Spain,Retired,Retired,2022-01-30
+ID_C00133,1972-12-07,Venezuela,Spain,Other / inactive,Other,2023-04-20
+ID_C00134,1982-05-05,Spain,Spain,Personal service worker,Employed,2022-02-05
+ID_C00135,1973-08-16,Spain,Spain,Accounting and financial support worker,Self-employed,2020-06-01
+ID_C00136,2006-11-19,Spain,Spain,Student,Student,2022-08-08
+ID_C00137,1938-08-09,Spain,Spain,Retired,Retired,2022-05-08
+ID_C00138,1976-01-25,Spain,Spain,Education professional,Employed,2023-01-16
+ID_C00139,1962-09-28,Spain,Spain,Restaurant worker,Employed,2019-04-29
+ID_C00140,2003-02-09,Spain,Spain,Manufacturing worker,Employed,2022-06-29
+ID_C00141,1971-09-29,Spain,Spain,Sales representative,Employed,2019-12-31
+ID_C00142,1976-10-26,Russia,Spain,Restaurant worker,Employed,2023-07-14
+ID_C00143,1935-09-28,Spain,Spain,Retired,Retired,2023-08-04
+ID_C00144,1971-09-06,Spain,Spain,Restaurant worker,Employed,2022-05-17
+ID_C00145,1976-11-18,Spain,Spain,Other / inactive,Other,2024-08-17
+ID_C00146,1995-06-01,Romania,Spain,Security worker,Employed,2021-10-06
+ID_C00147,1984-09-02,Spain,Spain,Business and management professional,Employed,2018-03-06
+ID_C00148,1972-04-14,Spain,Spain,Care worker,Employed,2022-03-31
+ID_C00149,1983-07-06,Spain,Spain,Shop owner,Employed,2023-06-12
+ID_C00150,2001-07-24,Spain,Spain,Student,Student,2018-09-16
+ID_C00151,1956-07-14,Spain,Spain,Retired,Retired,2018-09-25
+ID_C00152,1954-11-05,Spain,Spain,Other / inactive,Other,2019-11-30
+ID_C00153,1995-04-16,Spain,Spain,Construction worker,Employed,2023-11-29
+ID_C00154,1970-11-24,Spain,Spain,Driver,Employed,2021-09-10
+ID_C00155,1996-04-13,Romania,Spain,Construction worker,Employed,2024-11-01
+ID_C00156,1964-01-03,Spain,Spain,Cleaning worker,Employed,2024-02-11
+ID_C00157,1988-03-29,Spain,Spain,Healthcare professional,Employed,2021-11-19
+ID_C00158,1961-07-19,Spain,Spain,Education professional,Employed,2022-10-03
+ID_C00159,1966-09-09,Spain,Spain,Cleaning worker,Employed,2020-04-26
+ID_C00160,1966-02-17,Spain,Spain,Science and engineering professional,Employed,2018-08-20
+ID_C00161,1994-09-30,Spain,Spain,Other / inactive,Other,2020-10-16
+ID_C00162,1942-07-09,United Kingdom,Spain,Retired,Retired,2022-02-23
+ID_C00163,1991-03-26,Morocco,Spain,Unemployed,Unemployed,2019-04-11
+ID_C00164,2003-01-30,Colombia,Spain,Student,Student,2019-07-21
+ID_C00165,1974-01-30,Morocco,Spain,Education professional,Employed,2018-02-08
+ID_C00166,1988-11-30,Morocco,Spain,Unemployed,Unemployed,2023-02-20
+ID_C00167,1959-02-08,Spain,Spain,Retired,Retired,2024-04-18
+ID_C00168,1956-11-21,Spain,Spain,Administrative worker,Employed,2023-10-17
+ID_C00169,1980-06-02,Spain,Spain,Security worker,Employed,2020-08-29
+ID_C00170,1935-01-27,Spain,Spain,Retired,Retired,2022-02-26
+ID_C00171,1983-05-07,Spain,Spain,Unemployed,Unemployed,2024-09-22
+ID_C00172,1973-01-21,Spain,Spain,Care worker,Employed,2022-02-21
+ID_C00173,1996-08-29,Spain,Spain,Business and management professional,Employed,2020-01-27
+ID_C00174,1947-09-09,Spain,Spain,Retired,Retired,2020-05-15
+ID_C00175,1999-09-04,Spain,Spain,Personal service worker,Employed,2023-02-03
+ID_C00176,2004-08-25,Spain,Spain,Other / inactive,Other,2021-02-15
+ID_C00177,1986-04-27,Spain,Spain,Science and engineering professional,Employed,2023-11-11
+ID_C00178,1946-07-20,Spain,Spain,Retired,Retired,2024-01-19
+ID_C00179,1957-04-07,Spain,Spain,Retail worker,Employed,2018-04-02
+ID_C00180,1969-08-03,Spain,Spain,Construction worker,Employed,2023-01-24
+ID_C00181,1953-09-11,Spain,Spain,Retired,Retired,2020-08-03
+ID_C00182,1950-10-24,Spain,Spain,Retired,Retired,2021-08-22
+ID_C00183,1973-06-14,Spain,Spain,Care worker,Employed,2019-11-09
+ID_C00184,1985-02-08,Spain,Spain,Healthcare professional,Self-employed,2020-07-30
+ID_C00185,1965-02-22,Spain,Spain,Education professional,Employed,2020-04-24
+ID_C00186,1966-10-01,Spain,Spain,Healthcare professional,Employed,2018-05-09
+ID_C00187,1988-07-11,France,Spain,Construction worker,Employed,2023-06-25
+ID_C00188,1994-04-19,Spain,Spain,Administrative worker,Self-employed,2019-01-01
+ID_C00189,1964-05-23,China,Spain,Unemployed,Unemployed,2020-08-18
+ID_C00190,1999-12-08,Spain,Spain,Restaurant worker,Employed,2019-05-09
+ID_C00191,1943-05-31,Spain,Spain,Retired,Retired,2019-02-15
+ID_C00192,1997-12-18,Spain,Spain,Other / inactive,Other,2020-08-12
+ID_C00193,1998-11-20,Spain,Spain,Personal service worker,Employed,2024-06-07
+ID_C00194,1952-05-08,Spain,Spain,Retired,Retired,2024-08-11
+ID_C00195,1994-11-25,Spain,Spain,Manufacturing worker,Employed,2020-09-03
+ID_C00196,1993-08-31,Spain,Spain,Restaurant worker,Employed,2021-07-15
+ID_C00197,1972-06-01,Spain,Spain,Unemployed,Unemployed,2024-11-25
+ID_C00198,1950-05-07,Spain,Spain,Retired,Retired,2019-08-24
+ID_C00199,1991-07-23,Romania,Spain,Manufacturing worker,Self-employed,2024-08-12
+ID_C00200,1983-11-28,Spain,Spain,Education professional,Employed,2018-09-28
+ID_C00201,1961-03-16,Spain,Spain,Manufacturing worker,Employed,2019-08-01
+ID_C00202,1942-01-20,Spain,Spain,Retired,Retired,2020-05-15
+ID_C00203,1970-02-11,Spain,Spain,Shop owner,Employed,2018-04-05
+ID_C00204,1992-04-03,Spain,Spain,Education professional,Employed,2023-09-17
+ID_C00205,2002-08-08,Romania,Spain,Student,Student,2023-12-28
+ID_C00206,1990-02-16,Italy,Spain,Business and management professional,Employed,2020-09-07
+ID_C00207,1994-07-07,Spain,Spain,Shop owner,Employed,2023-11-09
+ID_C00208,1962-11-13,Spain,Spain,Manufacturing worker,Self-employed,2023-05-30
+ID_C00209,1997-02-25,Spain,Spain,Shop owner,Employed,2023-08-12
+ID_C00210,1970-09-07,Spain,Spain,Sales representative,Employed,2023-08-15
+ID_C00211,1963-01-24,Spain,Spain,Retail worker,Self-employed,2022-01-06
+ID_C00212,1972-08-20,Spain,Spain,Agricultural worker,Self-employed,2018-10-11
+ID_C00213,1995-02-18,Spain,Spain,Unemployed,Unemployed,2024-06-19
+ID_C00214,1951-06-19,Spain,Spain,Retired,Retired,2022-04-06
+ID_C00215,1969-07-15,China,Spain,Unemployed,Unemployed,2024-04-23
+ID_C00216,1968-09-15,Spain,Spain,Care worker,Employed,2024-09-18
+ID_C00217,1994-03-02,Pakistan,Spain,Care worker,Employed,2019-04-24
+ID_C00218,1992-12-10,Spain,Spain,Administrative worker,Employed,2020-10-25
+ID_C00219,1937-07-14,Spain,Spain,Retired,Retired,2019-05-08
+ID_C00220,1985-08-20,Spain,Spain,Care worker,Employed,2018-05-11
+ID_C00221,1983-06-17,Spain,Spain,Restaurant worker,Employed,2024-10-07
+ID_C00222,1974-10-01,Spain,Spain,Business and management professional,Self-employed,2024-06-18
+ID_C00223,1960-05-04,Spain,Spain,Retail worker,Employed,2024-07-10
+ID_C00224,1939-08-14,Pakistan,Spain,Retired,Retired,2024-03-09
+ID_C00225,1985-10-25,Spain,Spain,Business and management professional,Employed,2022-07-17
+ID_C00226,1934-10-22,Spain,Spain,Retired,Retired,2021-08-28
+ID_C00227,2006-04-22,Spain,Spain,Student,Student,2024-12-10
+ID_C00228,1970-09-28,Spain,Spain,Agricultural worker,Employed,2021-11-13
+ID_C00229,1978-09-11,Spain,Spain,Construction worker,Employed,2022-07-01
+ID_C00230,1997-05-18,Spain,Spain,Sales representative,Self-employed,2019-06-26
+ID_C00231,1991-09-03,Romania,Spain,Other / inactive,Other,2023-03-25
+ID_C00232,1982-08-13,Spain,Spain,Driver,Employed,2023-09-27
+ID_C00233,1934-10-04,Spain,Spain,Retired,Retired,2022-10-01
+ID_C00234,1972-08-28,Spain,Spain,Unemployed,Unemployed,2021-06-28
+ID_C00235,1939-04-24,Spain,Spain,Other / inactive,Other,2019-05-21
+ID_C00236,1956-06-21,Romania,Spain,Retired,Retired,2018-03-28
+ID_C00237,1989-01-02,Spain,Spain,Unemployed,Unemployed,2022-05-24
+ID_C00238,1968-03-26,Spain,Spain,Unemployed,Unemployed,2022-10-13
+ID_C00239,2004-12-26,Spain,Spain,Shop owner,Employed,2023-05-30
+ID_C00240,1999-08-16,Spain,Spain,Business and management professional,Employed,2024-08-27
+ID_C00241,1954-09-18,Spain,Spain,Retired,Retired,2021-06-25
+ID_C00242,1952-06-01,Spain,Spain,Retired,Retired,2023-10-22
+ID_C00243,1990-09-27,Spain,Spain,Cleaning worker,Employed,2023-01-06
+ID_C00244,1975-01-14,Spain,Spain,Restaurant worker,Employed,2019-12-10
+ID_C00245,1971-09-14,Italy,Spain,Healthcare professional,Employed,2023-12-01
+ID_C00246,1950-06-25,Spain,Spain,Retired,Retired,2018-05-17
+ID_C00247,1971-11-18,Spain,Spain,Construction worker,Employed,2022-03-12
+ID_C00248,1985-02-03,Spain,Spain,Unemployed,Unemployed,2024-08-01
+ID_C00249,1986-02-03,United Kingdom,Spain,Manufacturing worker,Employed,2022-08-12
+ID_C00250,1980-03-18,Spain,Spain,Business and management professional,Employed,2024-07-24
+ID_C00251,1967-08-26,Spain,Spain,Restaurant worker,Self-employed,2018-05-24
+ID_C00252,1955-12-11,Spain,Spain,Agricultural worker,Employed,2021-09-23
+ID_C00253,1989-04-17,Spain,Spain,Other / inactive,Other,2023-06-20
+ID_C00254,1992-07-29,Spain,Spain,Unemployed,Unemployed,2022-07-01
+ID_C00255,1993-01-05,Spain,Spain,Unemployed,Unemployed,2024-03-01
+ID_C00256,1969-04-22,Spain,Spain,Cleaning worker,Employed,2021-03-28
+ID_C00257,1957-06-19,Italy,Spain,Retired,Retired,2022-10-12
+ID_C00258,1994-01-06,Spain,Spain,Agricultural worker,Employed,2020-12-09
+ID_C00259,2003-03-15,Spain,Spain,Healthcare professional,Employed,2024-02-09
+ID_C00260,1971-07-18,Spain,Spain,Other / inactive,Other,2018-11-02
+ID_C00261,1997-12-26,Spain,Spain,Care worker,Employed,2019-10-12
+ID_C00262,1950-11-29,Spain,Spain,Retired,Retired,2018-09-05
+ID_C00263,1985-07-24,Spain,Spain,Manufacturing worker,Employed,2022-12-01
+ID_C00264,1991-06-10,Peru,Spain,Healthcare professional,Employed,2019-08-19
+ID_C00265,1946-12-21,Spain,Spain,Retired,Retired,2020-03-21
+ID_C00266,1999-11-16,Spain,Spain,Science and engineering professional,Employed,2023-11-10
+ID_C00267,1989-04-19,Spain,Spain,Other / inactive,Other,2020-07-09
+ID_C00268,1996-04-02,Spain,Spain,Shop owner,Employed,2019-01-08
+ID_C00269,1990-12-22,Spain,Spain,Unemployed,Unemployed,2018-02-23
+ID_C00270,2006-06-30,Spain,Spain,Restaurant worker,Employed,2019-08-03
+ID_C00271,2004-12-03,United Kingdom,Spain,Student,Student,2024-05-27
+ID_C00272,1998-04-12,Spain,Spain,Retail worker,Employed,2021-11-03
+ID_C00273,2000-03-03,Colombia,Spain,Science and engineering professional,Employed,2024-12-18
+ID_C00274,1973-02-18,Spain,Spain,Cleaning worker,Employed,2019-07-05
+ID_C00275,1962-05-28,Spain,Spain,Unemployed,Unemployed,2020-06-17
+ID_C00276,1982-05-17,Spain,Spain,Retail worker,Employed,2019-02-22
+ID_C00277,1983-01-28,Romania,Spain,Construction worker,Employed,2020-10-15
+ID_C00278,1972-05-23,Spain,Spain,Unemployed,Unemployed,2021-12-11
+ID_C00279,1959-07-23,Spain,Spain,Retired,Retired,2023-08-29
+ID_C00280,1951-04-01,Spain,Spain,Retired,Retired,2020-07-30
+ID_C00281,2001-05-31,Spain,Spain,Other / inactive,Other,2023-05-27
+ID_C00282,1992-02-29,Spain,Spain,Business and management professional,Employed,2022-05-21
+ID_C00283,1996-06-24,Spain,Spain,Driver,Employed,2020-01-17
+ID_C00284,1991-02-18,Romania,Spain,Driver,Employed,2024-05-21
+ID_C00285,1976-12-16,Spain,Spain,Agricultural worker,Employed,2021-01-15
+ID_C00286,1989-12-19,Spain,Spain,Sales representative,Self-employed,2019-01-22
+ID_C00287,2000-11-26,Spain,Spain,Agricultural worker,Employed,2024-09-27
+ID_C00288,1987-06-12,Spain,Spain,Administrative worker,Employed,2024-05-24
+ID_C00289,1978-04-18,Spain,Spain,Unemployed,Unemployed,2018-05-07
+ID_C00290,1993-10-15,Spain,Spain,Shop owner,Employed,2024-04-26
+ID_C00291,1957-11-06,Spain,Spain,Retired,Retired,2024-08-19
+ID_C00292,2000-02-22,Spain,Spain,Security worker,Employed,2023-10-21
+ID_C00293,1942-04-03,Spain,Spain,Other / inactive,Other,2019-10-15
+ID_C00294,1999-05-10,Spain,Spain,Retail worker,Employed,2022-06-03
+ID_C00295,1950-07-07,Spain,Spain,Retired,Retired,2021-10-08
+ID_C00296,1954-08-01,Spain,Spain,Retired,Retired,2022-05-05
+ID_C00297,1945-12-25,Spain,Spain,Accounting and financial support worker,Employed,2022-04-26
+ID_C00298,1953-10-25,Spain,Spain,Retired,Retired,2022-06-23
+ID_C00299,1964-02-09,Morocco,Spain,Construction worker,Employed,2021-08-07
+ID_C00300,1969-08-31,Spain,Spain,Retail worker,Self-employed,2022-11-01
+ID_C00301,1962-04-19,Spain,Spain,Restaurant worker,Employed,2021-09-08
+ID_C00302,1995-04-20,Spain,Spain,Science and engineering professional,Employed,2018-02-12
+ID_C00303,1973-09-11,Spain,Spain,Education professional,Employed,2018-04-01
+ID_C00304,1971-10-19,Spain,Spain,Driver,Employed,2024-09-15
+ID_C00305,1953-04-24,Spain,Spain,Retired,Retired,2024-05-13
+ID_C00306,1983-11-28,Spain,Spain,Unemployed,Unemployed,2022-02-06
+ID_C00307,1987-07-05,Morocco,Spain,Retail worker,Employed,2019-03-23
+ID_C00308,1977-02-11,Spain,Spain,Administrative worker,Self-employed,2023-06-22
+ID_C00309,1995-04-17,Spain,Spain,Other / inactive,Other,2019-01-02
+ID_C00310,1991-03-29,Spain,Spain,Administrative worker,Employed,2020-08-22
+ID_C00311,1974-12-02,Honduras,Spain,Sales representative,Employed,2020-04-23
+ID_C00312,1986-10-21,Spain,Spain,Other / inactive,Other,2018-02-01
+ID_C00313,1992-09-23,Spain,Spain,Healthcare professional,Employed,2023-08-26
+ID_C00314,1981-09-17,Spain,Spain,Education professional,Self-employed,2021-07-27
+ID_C00315,1980-10-23,Spain,Spain,Care worker,Self-employed,2020-03-19
+ID_C00316,1987-01-12,Romania,Spain,Cleaning worker,Employed,2021-07-20
+ID_C00317,1982-11-02,Spain,Spain,Security worker,Employed,2018-01-01
+ID_C00318,1964-04-18,Spain,Spain,Retail worker,Employed,2021-01-22
+ID_C00319,1985-06-01,Spain,Spain,Education professional,Employed,2021-08-21
+ID_C00320,1943-05-24,Spain,Spain,Retired,Retired,2020-05-18
+ID_C00321,1948-10-15,Colombia,Spain,Retired,Retired,2023-10-25
+ID_C00322,1977-09-11,Spain,Spain,Healthcare professional,Self-employed,2019-10-01
+ID_C00323,1984-05-25,Spain,Spain,Unemployed,Unemployed,2018-12-19
+ID_C00324,1971-09-14,United Kingdom,Spain,Unemployed,Unemployed,2021-09-10
+ID_C00325,1951-04-23,Spain,Spain,Retired,Retired,2024-03-18
+ID_C00326,1968-12-18,Spain,Spain,Construction worker,Employed,2020-08-17
+ID_C00327,1953-12-06,Spain,Spain,Retired,Retired,2018-04-30
+ID_C00328,1979-04-11,Spain,Spain,Administrative worker,Employed,2024-10-16
+ID_C00329,1973-05-21,Spain,Spain,Other / inactive,Other,2021-02-10
+ID_C00330,1986-12-17,Spain,Spain,Personal service worker,Employed,2019-03-19
+ID_C00331,1965-02-07,Spain,Spain,Cleaning worker,Employed,2022-04-24
+ID_C00332,1992-12-31,Argentina,Spain,Unemployed,Unemployed,2020-03-28
+ID_C00333,1965-01-18,Colombia,Spain,Sales representative,Employed,2024-07-25
+ID_C00334,1951-04-10,Spain,Spain,Retired,Retired,2020-01-22
+ID_C00335,1994-01-06,Ecuador,Spain,Care worker,Employed,2021-11-07
+ID_C00336,1970-01-20,Spain,Spain,Education professional,Employed,2021-10-21
+ID_C00337,1993-09-09,Spain,Spain,Sales representative,Self-employed,2019-09-12
+ID_C00338,1967-03-31,Spain,Spain,Cleaning worker,Employed,2021-06-30
+ID_C00339,2001-10-17,Spain,Spain,Unemployed,Unemployed,2018-10-06
+ID_C00340,1943-07-13,Spain,Spain,Administrative worker,Employed,2022-07-05
+ID_C00341,1994-10-06,Spain,Spain,Unemployed,Unemployed,2023-04-24
+ID_C00342,1947-07-08,Spain,Spain,Retired,Retired,2024-08-26
+ID_C00343,1958-02-17,Spain,Spain,Retired,Retired,2020-04-13
+ID_C00344,1974-07-26,Spain,Spain,Unemployed,Unemployed,2019-12-31
+ID_C00345,1968-11-29,Spain,Spain,Retail worker,Employed,2021-11-04
+ID_C00346,1950-09-05,Spain,Spain,Retired,Retired,2022-11-07
+ID_C00347,1936-03-20,Spain,Spain,Retired,Retired,2024-12-12
+ID_C00348,1992-06-25,Spain,Spain,Personal service worker,Employed,2018-03-06
+ID_C00349,1972-06-11,Pakistan,Spain,Manufacturing worker,Self-employed,2019-09-02
+ID_C00350,1994-07-28,Spain,Spain,Other / inactive,Other,2019-11-02
+ID_C00351,1979-09-17,Spain,Spain,Education professional,Self-employed,2019-10-16
+ID_C00352,1996-05-28,Spain,Spain,Care worker,Employed,2021-03-31
+ID_C00353,1975-05-15,Spain,Spain,Unemployed,Unemployed,2024-02-11
+ID_C00354,1970-02-08,Spain,Spain,Business and management professional,Employed,2018-03-21
+ID_C00355,1987-05-21,Spain,Spain,Driver,Self-employed,2023-09-18
+ID_C00356,1975-01-03,Spain,Spain,Unemployed,Unemployed,2022-04-29
+ID_C00357,1966-03-06,Spain,Spain,Personal service worker,Self-employed,2022-04-23
+ID_C00358,1958-12-04,Spain,Spain,Retired,Retired,2022-10-01
+ID_C00359,1978-08-11,China,Spain,Security worker,Employed,2018-10-23
+ID_C00360,1976-08-14,Spain,Spain,Manufacturing worker,Employed,2023-03-25
+ID_C00361,1948-12-31,Spain,Spain,Retired,Retired,2019-09-27
+ID_C00362,1999-10-28,Spain,Spain,Shop owner,Employed,2021-08-13
+ID_C00363,1996-03-29,Spain,Spain,Education professional,Employed,2022-09-27
+ID_C00364,2005-08-26,Peru,Spain,Student,Student,2022-03-25
+ID_C00365,1964-11-09,Morocco,Spain,Administrative worker,Self-employed,2020-04-06
+ID_C00366,1989-09-19,Spain,Spain,Unemployed,Unemployed,2020-10-09
+ID_C00367,1966-09-23,Spain,Spain,Sales representative,Employed,2021-05-03
+ID_C00368,1965-10-30,Spain,Spain,Restaurant worker,Self-employed,2018-04-16
+ID_C00369,1980-11-26,Spain,Spain,Driver,Employed,2023-01-31
+ID_C00370,1953-03-29,Portugal,Spain,Retired,Retired,2018-09-13
+ID_C00371,1961-03-07,Spain,Spain,Shop owner,Employed,2021-03-18
+ID_C00372,1996-07-04,Spain,Spain,Education professional,Self-employed,2022-08-02
+ID_C00373,1985-05-22,Spain,Spain,Other / inactive,Other,2018-07-25
+ID_C00374,1985-01-31,Spain,Spain,Administrative worker,Self-employed,2024-12-20
+ID_C00375,1991-02-28,Spain,Spain,Unemployed,Unemployed,2020-08-22
+ID_C00376,1990-12-21,Spain,Spain,Other / inactive,Other,2018-02-10
+ID_C00377,1934-01-19,Spain,Spain,Retired,Retired,2022-08-12
+ID_C00378,1982-12-08,Spain,Spain,Agricultural worker,Employed,2021-11-26
+ID_C00379,1984-12-23,Spain,Spain,Driver,Employed,2022-06-26
+ID_C00380,1964-08-07,Romania,Spain,Other / inactive,Other,2023-04-05
+ID_C00381,1970-04-04,Pakistan,Spain,Construction worker,Employed,2021-05-01
+ID_C00382,1945-12-03,Spain,Spain,Retired,Retired,2023-10-16
+ID_C00383,1966-09-17,Spain,Spain,Unemployed,Unemployed,2020-08-04
+ID_C00384,1971-09-28,Spain,Spain,Shop owner,Employed,2021-10-26
+ID_C00385,1986-08-09,United Kingdom,Spain,Construction worker,Self-employed,2019-02-10
+ID_C00386,1946-01-07,Spain,Spain,Retired,Retired,2022-05-05
+ID_C00387,1964-09-03,Spain,Spain,Other / inactive,Other,2019-10-31
+ID_C00388,1944-10-17,Spain,Spain,Retail worker,Self-employed,2022-11-17
+ID_C00389,1991-11-18,Spain,Spain,Education professional,Employed,2023-08-11
+ID_C00390,1950-10-21,Spain,Spain,Retired,Retired,2024-01-06
+ID_C00391,1976-11-14,Spain,Spain,Manufacturing worker,Employed,2024-07-03
+ID_C00392,1994-06-06,Spain,Spain,Healthcare professional,Employed,2018-11-09
+ID_C00393,1970-08-01,Spain,Spain,Construction worker,Employed,2018-12-19
+ID_C00394,1962-07-04,Spain,Spain,Unemployed,Unemployed,2024-06-26
+ID_C00395,2005-03-04,Spain,Spain,Student,Student,2020-08-31
+ID_C00396,1984-06-04,Spain,Spain,Retail worker,Employed,2018-03-08
+ID_C00397,1953-11-06,Spain,Spain,Retired,Retired,2020-01-04
+ID_C00398,1983-08-17,Spain,Spain,Administrative worker,Employed,2023-11-09
+ID_C00399,1989-09-09,Spain,Spain,Manufacturing worker,Employed,2020-06-26
+ID_C00400,1987-03-06,Morocco,Spain,Construction worker,Employed,2018-07-16
+ID_C00401,1981-09-11,Spain,Spain,Shop owner,Employed,2023-01-21
+ID_C00402,1946-11-12,Morocco,Spain,Healthcare professional,Self-employed,2019-05-13
+ID_C00403,1967-04-08,Spain,Spain,Construction worker,Employed,2020-06-21
+ID_C00404,1996-07-29,Spain,Spain,Agricultural worker,Employed,2018-01-10
+ID_C00405,1947-11-28,Spain,Spain,Other / inactive,Other,2022-03-20
+ID_C00406,1958-04-25,Spain,Spain,Retired,Retired,2021-02-12
+ID_C00407,1986-10-17,Spain,Spain,Administrative worker,Self-employed,2024-01-27
+ID_C00408,1951-02-19,Spain,Spain,Retired,Retired,2020-05-04
+ID_C00409,1999-03-04,Spain,Spain,Unemployed,Unemployed,2019-06-08
+ID_C00410,1945-08-20,Spain,Spain,Retired,Retired,2019-03-01
+ID_C00411,1969-06-13,Spain,Spain,Unemployed,Unemployed,2019-05-27
+ID_C00412,1964-06-08,Spain,Spain,Healthcare professional,Employed,2021-02-27
+ID_C00413,1997-05-08,Spain,Spain,Agricultural worker,Employed,2018-08-11
+ID_C00414,1952-12-07,Spain,Spain,Retired,Retired,2020-10-25
+ID_C00415,2002-09-05,Spain,Spain,Student,Student,2023-12-26
+ID_C00416,1992-10-31,Ukraine,Spain,Administrative worker,Employed,2023-05-17
+ID_C00417,1993-04-22,Spain,Spain,Sales representative,Employed,2022-06-18
+ID_C00418,1965-12-07,Spain,Spain,Other / inactive,Other,2024-04-02
+ID_C00419,1991-06-27,Spain,Spain,Shop owner,Self-employed,2023-06-19
+ID_C00420,1942-04-11,Spain,Spain,Retired,Retired,2022-07-27
+ID_C00421,1960-01-21,Spain,Spain,Restaurant worker,Self-employed,2024-01-16
+ID_C00422,2000-09-18,Spain,Spain,Student,Student,2018-11-15
+ID_C00423,2002-12-30,Spain,Spain,Student,Student,2023-09-24
+ID_C00424,2002-04-12,Spain,Spain,Student,Student,2020-01-26
+ID_C00425,1978-01-01,Spain,Spain,Driver,Employed,2023-02-18
+ID_C00426,1951-12-08,Spain,Spain,Retired,Retired,2024-05-24
+ID_C00427,1993-01-05,Spain,Spain,Unemployed,Unemployed,2021-06-22
+ID_C00428,1950-02-21,Spain,Spain,Education professional,Employed,2018-08-15
+ID_C00429,2005-04-18,Spain,Spain,Student,Student,2020-08-04
+ID_C00430,1952-03-03,Spain,Spain,Retired,Retired,2020-11-06
+ID_C00431,1942-12-05,Spain,Spain,Retired,Retired,2024-07-23
+ID_C00432,1968-11-30,Spain,Spain,Other / inactive,Other,2024-08-06
+ID_C00433,1968-09-14,Spain,Spain,Unemployed,Unemployed,2021-12-24
+ID_C00434,1954-12-24,Spain,Spain,Other / inactive,Other,2024-08-27
+ID_C00435,2004-02-12,Spain,Spain,Student,Student,2021-01-20
+ID_C00436,1998-12-12,Spain,Spain,Administrative worker,Employed,2020-11-17
+ID_C00437,1995-06-17,Spain,Spain,Restaurant worker,Employed,2023-11-09
+ID_C00438,1973-02-24,United Kingdom,Spain,Science and engineering professional,Employed,2022-09-03
+ID_C00439,1966-04-08,Spain,Spain,Restaurant worker,Employed,2021-08-28
+ID_C00440,1970-10-08,Spain,Spain,Science and engineering professional,Employed,2021-03-13
+ID_C00441,1952-07-14,Spain,Spain,Other / inactive,Other,2022-12-10
+ID_C00442,1994-06-15,Spain,Spain,Healthcare professional,Employed,2023-04-11
+ID_C00443,1960-03-27,Morocco,Spain,Cleaning worker,Employed,2021-06-08
+ID_C00444,1995-07-30,Honduras,Spain,Unemployed,Unemployed,2018-03-22
+ID_C00445,1998-09-19,France,Spain,Cleaning worker,Employed,2018-09-18
+ID_C00446,1969-03-17,Spain,Spain,Science and engineering professional,Self-employed,2019-01-04
+ID_C00447,1934-02-12,Spain,Spain,Retired,Retired,2021-03-27
+ID_C00448,1970-07-07,Spain,Spain,Unemployed,Unemployed,2022-04-20
+ID_C00449,2001-12-22,Spain,Spain,Construction worker,Employed,2023-08-18
+ID_C00450,1978-07-03,Spain,Spain,Cleaning worker,Employed,2019-08-18
+ID_C00451,2004-02-12,Spain,Spain,Agricultural worker,Employed,2023-07-05
+ID_C00452,1959-01-05,Spain,Spain,Retired,Retired,2022-08-31
+ID_C00453,1969-08-08,Spain,Spain,Care worker,Employed,2018-05-13
+ID_C00454,1997-11-08,Spain,Spain,Restaurant worker,Employed,2020-06-17
+ID_C00455,1994-06-07,Spain,Spain,Manufacturing worker,Employed,2020-02-13
+ID_C00456,1999-03-04,Spain,Spain,Cleaning worker,Self-employed,2024-03-17
+ID_C00457,1934-01-22,Spain,Spain,Retired,Retired,2024-06-13
+ID_C00458,1985-12-14,Spain,Spain,Education professional,Employed,2023-09-26
+ID_C00459,1967-09-17,Spain,Spain,Construction worker,Employed,2021-09-12
+ID_C00460,1974-07-11,Spain,Spain,Unemployed,Unemployed,2021-06-14
+ID_C00461,1972-11-27,Spain,Spain,Retail worker,Employed,2020-03-07
+ID_C00462,1996-02-13,Spain,Spain,Healthcare professional,Self-employed,2023-05-31
+ID_C00463,1949-11-22,Spain,Spain,Business and management professional,Employed,2018-08-09
+ID_C00464,1989-05-04,Spain,Spain,Retail worker,Employed,2019-11-25
+ID_C00465,1971-01-31,Spain,Spain,Personal service worker,Self-employed,2018-12-12
+ID_C00466,1968-04-26,Spain,Spain,Manufacturing worker,Employed,2021-06-17
+ID_C00467,1963-03-29,Spain,Spain,Care worker,Employed,2020-02-06
+ID_C00468,1943-09-27,Spain,Spain,Retired,Retired,2019-05-20
+ID_C00469,1992-03-05,Spain,Spain,Unemployed,Unemployed,2020-08-20
+ID_C00470,1979-08-02,Spain,Spain,Science and engineering professional,Employed,2024-01-11
+ID_C00471,1981-12-10,Spain,Spain,Science and engineering professional,Employed,2021-11-27
+ID_C00472,1973-08-21,Spain,Spain,Shop owner,Employed,2023-10-06
+ID_C00473,1995-08-27,Venezuela,Spain,Cleaning worker,Employed,2024-05-25
+ID_C00474,1997-06-25,Spain,Spain,Restaurant worker,Employed,2024-04-25
+ID_C00475,1990-09-27,Spain,Spain,Sales representative,Employed,2020-06-16
+ID_C00476,1986-07-17,Italy,Spain,Sales representative,Employed,2024-02-22
+ID_C00477,1985-07-29,Spain,Spain,Restaurant worker,Employed,2024-05-14
+ID_C00478,1976-09-04,Spain,Spain,Care worker,Self-employed,2024-09-19
+ID_C00479,1977-04-22,Morocco,Spain,Education professional,Employed,2020-06-16
+ID_C00480,1985-09-12,Spain,Spain,Manufacturing worker,Self-employed,2019-08-07
+ID_C00481,1988-03-28,Spain,Spain,Healthcare professional,Employed,2022-02-02
+ID_C00482,1999-10-02,Spain,Spain,Education professional,Employed,2024-07-10
+ID_C00483,1977-02-20,Spain,Spain,Retail worker,Employed,2024-04-21
+ID_C00484,1988-08-21,Spain,Spain,Healthcare professional,Employed,2021-12-31
+ID_C00485,2004-12-18,Spain,Spain,Student,Student,2019-01-17
+ID_C00486,1981-11-08,Spain,Spain,Healthcare professional,Employed,2020-12-16
+ID_C00487,1978-03-13,Spain,Spain,Education professional,Self-employed,2023-01-01
+ID_C00488,1999-02-17,Spain,Spain,Healthcare professional,Employed,2021-12-03
+ID_C00489,1978-10-16,Spain,Spain,Unemployed,Unemployed,2020-06-02
+ID_C00490,1974-05-27,Spain,Spain,Restaurant worker,Employed,2020-05-26
+ID_C00491,1967-06-06,Germany,Spain,Cleaning worker,Self-employed,2018-06-02
+ID_C00492,1965-11-14,Spain,Spain,Administrative worker,Employed,2020-01-08
+ID_C00493,1969-07-21,Spain,Spain,Cleaning worker,Employed,2022-09-08
+ID_C00494,1986-04-23,Spain,Spain,Driver,Employed,2019-09-10
+ID_C00495,1965-01-13,Spain,Spain,Other / inactive,Other,2024-12-15
+ID_C00496,1975-02-26,Spain,Spain,Retail worker,Employed,2018-07-30
+ID_C00497,1984-11-27,Spain,Spain,Education professional,Employed,2022-02-14
+ID_C00498,1972-10-07,Spain,Spain,Restaurant worker,Employed,2021-06-23
+ID_C00499,1985-07-26,Romania,Spain,Business and management professional,Self-employed,2023-11-01
+ID_C00500,1971-11-08,Bulgaria,Spain,Shop owner,Employed,2024-03-20
