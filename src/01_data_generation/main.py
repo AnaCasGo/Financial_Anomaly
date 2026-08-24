@@ -5,6 +5,7 @@ from config import (
 )
 
 from generate_customers import generate_customers
+from generate_merchants import generate_merchants
 
 
 def main():
@@ -15,9 +16,9 @@ def main():
         exist_ok=True,
     )
 
-    # --------------------------------------------------------
+    # ========================================================
     # Customers
-    # ------------s--------------------------------------------
+    # ========================================================
 
     print("Generating customers...")
 
@@ -35,6 +36,25 @@ def main():
     print(
         f"Saved to: {RAW_DATA_DIR / 'customers.csv'}"
     )
+
+    # ========================================================
+    # MERCHANTS
+    # ========================================================
+
+    print("\nGenerating merchants...")
+
+    merchants = generate_merchants()
+
+    merchants.to_csv(
+        RAW_DATA_DIR / "merchants.csv",
+        index=False,
+    )
+
+    print(
+        f"Generated {len(merchants):,} merchants."
+    )
+
+    print("\nData generation completed.")
 
 
 if __name__ == "__main__":

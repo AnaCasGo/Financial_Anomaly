@@ -1,0 +1,251 @@
+merchant_id,merchant_category,country,city
+M0001,Utilities,Spain,Alicante
+M0002,Travel,Spain,Barcelona
+M0003,Education,Spain,Palma
+M0004,Clothing,Spain,Madrid
+M0005,Grocery,Spain,Zaragoza
+M0006,Online Services,Italy,Rome
+M0007,Utilities,Spain,Madrid
+M0008,Utilities,Spain,Madrid
+M0009,Grocery,Spain,Madrid
+M0010,Travel,United Arab Emirates,Dubai
+M0011,Transport,United States,Miami
+M0012,Jewellery,Spain,Madrid
+M0013,Clothing,Spain,Málaga
+M0014,Education,Spain,Barcelona
+M0015,Travel,Spain,Alicante
+M0016,Restaurants,Spain,Madrid
+M0017,Electronics,Spain,Madrid
+M0018,Grocery,Spain,Zaragoza
+M0019,Education,Spain,Madrid
+M0020,Clothing,Spain,Seville
+M0021,Healthcare,Spain,Bilbao
+M0022,Transport,Spain,Córdoba
+M0023,Online Services,France,Paris
+M0024,Hotels,Spain,Córdoba
+M0025,Utilities,Spain,Las Palmas de Gran Canaria
+M0026,Restaurants,Spain,Málaga
+M0027,Entertainment,Spain,Madrid
+M0028,Grocery,Spain,Seville
+M0029,Grocery,Spain,Valencia
+M0030,Clothing,Spain,Málaga
+M0031,Healthcare,Spain,Madrid
+M0032,Online Services,Spain,Valencia
+M0033,Transport,Spain,Barcelona
+M0034,Transport,Spain,Barcelona
+M0035,Entertainment,Spain,Málaga
+M0036,Restaurants,Spain,Valladolid
+M0037,Grocery,Spain,Valencia
+M0038,Entertainment,Spain,Seville
+M0039,Restaurants,Spain,Málaga
+M0040,Clothing,Spain,Seville
+M0041,Travel,Spain,Barcelona
+M0042,Education,Spain,Madrid
+M0043,Healthcare,Spain,Alicante
+M0044,Transport,Spain,Zaragoza
+M0045,Education,Spain,Murcia
+M0046,Utilities,Spain,Valladolid
+M0047,Transport,Spain,Valladolid
+M0048,Restaurants,Spain,Zaragoza
+M0049,Clothing,Spain,Las Palmas de Gran Canaria
+M0050,Grocery,Spain,Barcelona
+M0051,Restaurants,Spain,Madrid
+M0052,Grocery,Spain,Madrid
+M0053,Utilities,Spain,Zaragoza
+M0054,Clothing,Spain,Seville
+M0055,Healthcare,Spain,Las Palmas de Gran Canaria
+M0056,Utilities,Spain,Zaragoza
+M0057,Travel,Spain,Madrid
+M0058,Electronics,Spain,Madrid
+M0059,Grocery,Spain,Valencia
+M0060,Grocery,Spain,Málaga
+M0061,Clothing,Spain,Alicante
+M0062,Entertainment,Spain,Barcelona
+M0063,Electronics,Spain,Barcelona
+M0064,Utilities,Spain,Madrid
+M0065,Clothing,Spain,Valencia
+M0066,Electronics,Spain,Murcia
+M0067,Electronics,Spain,Valladolid
+M0068,Transport,Spain,Valencia
+M0069,Grocery,Spain,Gijón
+M0070,Travel,Spain,Valladolid
+M0071,Restaurants,Spain,Bilbao
+M0072,Travel,Spain,Madrid
+M0073,Education,Spain,Málaga
+M0074,Restaurants,France,Paris
+M0075,Grocery,Spain,Barcelona
+M0076,Restaurants,Spain,Valencia
+M0077,Restaurants,Spain,Córdoba
+M0078,Clothing,Spain,Madrid
+M0079,Electronics,Spain,Alicante
+M0080,Utilities,Spain,Bilbao
+M0081,Clothing,Spain,Gijón
+M0082,Travel,Spain,Málaga
+M0083,Utilities,Spain,Alicante
+M0084,Restaurants,Germany,Berlin
+M0085,Grocery,Spain,Madrid
+M0086,Grocery,Spain,Madrid
+M0087,Healthcare,Spain,Málaga
+M0088,Entertainment,France,Paris
+M0089,Restaurants,Spain,Zaragoza
+M0090,Entertainment,Spain,Madrid
+M0091,Grocery,Spain,Madrid
+M0092,Clothing,Spain,Córdoba
+M0093,Travel,Spain,Murcia
+M0094,Transport,Spain,Madrid
+M0095,Transport,Spain,Madrid
+M0096,Clothing,Spain,Palma
+M0097,Transport,Spain,Bilbao
+M0098,Grocery,Spain,Murcia
+M0099,Grocery,Spain,Barcelona
+M0100,Online Services,Spain,Gijón
+M0101,Hotels,Spain,Madrid
+M0102,Clothing,Spain,Madrid
+M0103,Restaurants,Spain,Murcia
+M0104,Online Services,France,Paris
+M0105,Utilities,Spain,Madrid
+M0106,Healthcare,Spain,Valencia
+M0107,Travel,Spain,Málaga
+M0108,Restaurants,Spain,Madrid
+M0109,Grocery,Spain,Barcelona
+M0110,Hotels,Spain,Murcia
+M0111,Travel,Spain,Valladolid
+M0112,Restaurants,Spain,Seville
+M0113,Transport,Spain,Valencia
+M0114,Electronics,Spain,Madrid
+M0115,Restaurants,Spain,Barcelona
+M0116,Education,Spain,Zaragoza
+M0117,Healthcare,Spain,Valencia
+M0118,Healthcare,Spain,Madrid
+M0119,Travel,Spain,Barcelona
+M0120,Clothing,Portugal,Lisbon
+M0121,Electronics,Spain,Madrid
+M0122,Clothing,Spain,Seville
+M0123,Grocery,Spain,Málaga
+M0124,Travel,Spain,Barcelona
+M0125,Grocery,Spain,Seville
+M0126,Entertainment,Spain,Zaragoza
+M0127,Transport,Spain,Seville
+M0128,Grocery,Spain,Alicante
+M0129,Grocery,Spain,Seville
+M0130,Electronics,Spain,Las Palmas de Gran Canaria
+M0131,Restaurants,Spain,Bilbao
+M0132,Jewellery,Spain,Madrid
+M0133,Electronics,Germany,Berlin
+M0134,Transport,Spain,Madrid
+M0135,Electronics,Spain,Barcelona
+M0136,Grocery,Spain,Barcelona
+M0137,Online Services,Spain,Madrid
+M0138,Entertainment,Spain,Bilbao
+M0139,Utilities,Spain,Madrid
+M0140,Grocery,Spain,Madrid
+M0141,Entertainment,Spain,Valladolid
+M0142,Entertainment,Spain,Palma
+M0143,Luxury Goods,Spain,Málaga
+M0144,Electronics,Spain,Barcelona
+M0145,Entertainment,Spain,Madrid
+M0146,Restaurants,Spain,Seville
+M0147,Transport,Spain,Madrid
+M0148,Entertainment,Spain,Gijón
+M0149,Travel,Spain,Bilbao
+M0150,Grocery,Spain,Madrid
+M0151,Education,Spain,Barcelona
+M0152,Hotels,United Arab Emirates,Dubai
+M0153,Grocery,Spain,Valencia
+M0154,Electronics,Spain,Madrid
+M0155,Grocery,Spain,Madrid
+M0156,Clothing,Spain,Barcelona
+M0157,Restaurants,Spain,Zaragoza
+M0158,Clothing,Spain,Madrid
+M0159,Healthcare,Spain,Bilbao
+M0160,Utilities,Spain,Málaga
+M0161,Grocery,Spain,Palma
+M0162,Jewellery,United States,Miami
+M0163,Restaurants,Spain,Seville
+M0164,Grocery,Spain,Bilbao
+M0165,Electronics,Spain,Palma
+M0166,Transport,Spain,Seville
+M0167,Education,Spain,Zaragoza
+M0168,Utilities,Spain,Barcelona
+M0169,Transport,Spain,Seville
+M0170,Online Services,France,Paris
+M0171,Restaurants,Spain,Málaga
+M0172,Entertainment,Spain,Barcelona
+M0173,Restaurants,Spain,Madrid
+M0174,Luxury Goods,Spain,Valencia
+M0175,Restaurants,Spain,Zaragoza
+M0176,Grocery,United Kingdom,London
+M0177,Travel,Italy,Rome
+M0178,Online Services,Spain,Gijón
+M0179,Hotels,Spain,Valencia
+M0180,Healthcare,Spain,Córdoba
+M0181,Hotels,Spain,Vigo
+M0182,Hotels,Spain,Alicante
+M0183,Entertainment,Spain,Murcia
+M0184,Transport,Spain,Seville
+M0185,Utilities,Spain,Vigo
+M0186,Clothing,Spain,Barcelona
+M0187,Transport,Spain,Palma
+M0188,Grocery,Spain,Madrid
+M0189,Healthcare,Spain,Palma
+M0190,Restaurants,Spain,Gijón
+M0191,Luxury Goods,Spain,Vigo
+M0192,Restaurants,Spain,Las Palmas de Gran Canaria
+M0193,Grocery,Spain,Seville
+M0194,Education,Spain,Córdoba
+M0195,Grocery,Spain,Madrid
+M0196,Restaurants,Spain,Madrid
+M0197,Electronics,Spain,Málaga
+M0198,Hotels,Spain,Palma
+M0199,Restaurants,Spain,Murcia
+M0200,Transport,Spain,Madrid
+M0201,Utilities,Spain,Zaragoza
+M0202,Online Services,Spain,Madrid
+M0203,Entertainment,Spain,Málaga
+M0204,Grocery,Spain,Barcelona
+M0205,Grocery,Spain,Málaga
+M0206,Restaurants,Spain,Bilbao
+M0207,Grocery,Spain,Bilbao
+M0208,Clothing,Spain,Zaragoza
+M0209,Grocery,Spain,Barcelona
+M0210,Entertainment,Spain,Madrid
+M0211,Clothing,United States,Miami
+M0212,Electronics,Spain,Murcia
+M0213,Restaurants,Spain,Gijón
+M0214,Utilities,Spain,Barcelona
+M0215,Healthcare,Spain,Zaragoza
+M0216,Healthcare,Spain,Murcia
+M0217,Grocery,Spain,Barcelona
+M0218,Grocery,Spain,Valencia
+M0219,Jewellery,Italy,Rome
+M0220,Transport,Spain,Madrid
+M0221,Transport,United Kingdom,London
+M0222,Entertainment,Spain,Málaga
+M0223,Clothing,Spain,Valencia
+M0224,Online Services,Spain,Palma
+M0225,Restaurants,Spain,Barcelona
+M0226,Jewellery,Spain,Madrid
+M0227,Grocery,Spain,Córdoba
+M0228,Electronics,Spain,Palma
+M0229,Clothing,Spain,Málaga
+M0230,Grocery,Spain,Barcelona
+M0231,Grocery,Spain,Madrid
+M0232,Travel,Spain,Barcelona
+M0233,Online Services,Spain,Las Palmas de Gran Canaria
+M0234,Electronics,Spain,Valencia
+M0235,Luxury Goods,Spain,Gijón
+M0236,Utilities,Spain,Las Palmas de Gran Canaria
+M0237,Entertainment,Spain,Las Palmas de Gran Canaria
+M0238,Utilities,Spain,Seville
+M0239,Grocery,Spain,Málaga
+M0240,Grocery,Spain,Seville
+M0241,Education,Spain,Madrid
+M0242,Utilities,Spain,Madrid
+M0243,Restaurants,Spain,Barcelona
+M0244,Entertainment,Mexico,Mexico City
+M0245,Electronics,Spain,Barcelona
+M0246,Hotels,Germany,Berlin
+M0247,Electronics,Spain,Barcelona
+M0248,Travel,United Arab Emirates,Dubai
+M0249,Transport,Spain,Barcelona
+M0250,Travel,Spain,Valencia

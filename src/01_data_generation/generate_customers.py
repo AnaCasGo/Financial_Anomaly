@@ -27,16 +27,16 @@ AGE_GROUPS = [
 
 # Initial adult population assumptions.
 # These should be calibrated against the Spanish population
-# distribution and documented in data_generation.md.
+# distribution standarized from Piramide_de_poblacion_de_Espana_ES_Ano_2025_Habitantes.xlsx from INE
 
 AGE_GROUP_PROBABILITIES = [
     0.09,
-    0.19,
+    0.14,
+    0.16,
     0.19,
     0.17,
-    0.15,
-    0.12,
-    0.09,
+    0.13,
+    0.12
 ]
 
 
@@ -321,7 +321,7 @@ def generate_date_of_birth(rng: np.random.Generator,ages: np.ndarray,) -> pd.Ser
         dob = (
             reference_date
             - pd.DateOffset(years=int(age))
-            - pd.Timedelta(days=int(birthday_offset_days))
+            + pd.Timedelta(days=int(birthday_offset_days))
         )
 
         dates.append(dob)
