@@ -13,8 +13,6 @@ PROCESSED_DATA_DIR = DATA_DIR / "02_processed"
 
 CUSTOMERS_PATH = RAW_DATA_DIR / "customers.csv"
 MERCHANTS_PATH = RAW_DATA_DIR / "merchants.csv"
-TRANSACTIONS_PATH = RAW_DATA_DIR / "transactions.csv"
-GROUND_TRUTH_PATH = PROCESSED_DATA_DIR / "ground_truth.csv"
 BEHAVIOR_PROFILE_PATH = PROCESSED_DATA_DIR / "customer_behavior_profile.csv"
 
 
