@@ -1,5 +1,7 @@
 # Virtual environment
 .venv/
+venv/
+env/
 
 # Python
 __pycache__/
@@ -18,4 +20,12 @@ __pycache__/
 .env
 
 # Generated data
-.csv
+data/01_raw/*.csv
+data/02_processed/*.csv
+
+# Google Cloud / BigQuery
+*.json
+.env
+profiles.yml
+
+
