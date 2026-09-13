@@ -1,31 +1,46 @@
-# Virtual environment
+# ==========================================
+# 1. VIRTUAL ENVIRONMENTS & PYTHON PACKAGES
+# ==========================================
 .venv/
 venv/
 env/
+ENV/
+build/
+dist/
+*.egg-info/
 
-# Python
+# ==========================================
+# 2. SECRETS, API KEYS & GCP (CRITICAL!)
+# ==========================================
+.env
+.env.*
+!.env.example
+*.json
+*credentials*.json
+*service_account*.json
+
+# ==========================================
+# 3. DBT & DATABASE CONNECTIONS
+# ==========================================
+.dbt/
+**/profiles.yml
+profiles.yml
+target/
+dbt_packages/
+logs/
+
+# ==========================================
+# 4. CACHE FILES & SYSTEM ARTIFACTS
+# ==========================================
 __pycache__/
 *.pyc
-
-# Jupyter
 .ipynb_checkpoints/
-
-# VS Code
 .vscode/
-
-# macOS
 .DS_Store
+Thumbs.db
 
-# Environment variables
-.env
-
-# Generated data
+# ==========================================
+# 5. HEAVY DATA & OUTPUT FILES
+# ==========================================
 data/01_raw/*.csv
 data/02_processed/*.csv
-
-# Google Cloud / BigQuery
-*.json
-.env
-profiles.yml
-
-
